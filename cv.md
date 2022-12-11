@@ -1,7 +1,7 @@
 # Kirill Minchenko 
 *Male, 26 years old, born on the 12th of November 1996*
 
-![Photo](F:\Photos\DSC_0147.jpg)
+![Photo][def]
 
 **Contacts:** 
 * Phone number: +375(29)1242165
@@ -36,3 +36,5 @@ Higher
 
  ## About me:
  
+
+[def]: f:/Photos/DSC_0147.jpg
